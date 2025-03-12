@@ -26,7 +26,6 @@ while j==1:
           print("You are very close, try with a slightly higher number")
         elif g < 15:
           print("Try with bigger numbers")
-      
         print("No. of guesses are left: ", ng)
       print('')
       i +=1
