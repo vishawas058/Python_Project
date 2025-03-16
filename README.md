@@ -12,6 +12,7 @@ def half_pyramid_of_stars(r):
 ```
 ###### Output
 ![Output](https://www.dropbox.com/scl/fi/5m2n0hy01nnvqugscyt8a/1.jpg?rlkey=86imvglm9ir6wkopt76zi1874&st=msj9d1mw&raw=1)
+
 #### 2. full pyramid of stars (*)
 ```python
 def full_pyramid_of_stars(r):
@@ -23,6 +24,7 @@ def full_pyramid_of_stars(r):
       print("*", end = " ")
     print()
 ```
+![Output](https://www.dropbox.com/scl/fi/psaq4ntp542n8xzczfi2d/2.jpg?rlkey=1sl79o70thqu9smwhs3l74rvj&st=51ntwi00&raw=1)
 
 #### 3. inverted half pyramid of stars
 ```python
