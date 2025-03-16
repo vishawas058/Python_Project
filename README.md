@@ -176,15 +176,15 @@ The script follows these steps:
 3. Special Case: Checks if the input is 0 and outputs "0" directly⚡️
 
 4. Conversion Process:
- - Stores the original number for display📌
+  - Stores the original number for display📌
 
- - Uses abs() to handle negative numbers during conversion🔢
+  - Uses abs() to handle negative numbers during conversion🔢
 
- - Implements the standard division-by-2 algorithm:
-   - Repeatedly divides by 2➗️
+  - Implements the standard division-by-2 algorithm:
+    - Repeatedly divides by 2➗️
 
-   - Prepends remainders to build the binary string🧵
- -Adds a negative sign if the original input was negative 
+    - Prepends remainders to build the binary string🧵
+  -Adds a negative sign if the original input was negative 
 5. Output: Prints the result using an f-string for clean formatting🖨
 ## Requirements📦
 - Python 3.x (tested on Python 3.9+)🐍
