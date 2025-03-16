@@ -1,5 +1,5 @@
-<h1>Python Project</h1>
-<p>#half pyramid of stars (*)
+#Python Project
+#half pyramid of stars (*)
 def half_pyramid_of_stars(r):
   print("Half pryamid of stars!")
   for i in range(r):
@@ -79,4 +79,4 @@ if __name__ == "__main__":
   pattern_of_numbers(r)
   pattern_1_12_123(r)
   pattern_12345_1234_123_12_1(r)
-  right_half_pyramid_of_numbers(r)</p>
+  right_half_pyramid_of_numbers(r)
