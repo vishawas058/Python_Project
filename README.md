@@ -1,5 +1,5 @@
-<h>Python Project</h>
-#Some Pattern whit python
+#Python Project
+##Some Pattern whit python
 ```python
 #half pyramid of stars (*)
 def half_pyramid_of_stars(r):
