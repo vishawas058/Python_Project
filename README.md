@@ -148,7 +148,6 @@ python decimal_to_binary.py
 
 5. View the binary result displayed on the screen 
 
-```
 ###### Output 
 ![Output](https://www.dropbox.com/scl/fi/ynxunl77rgeyelyyu0l0e/Decimal-To-Binary.jpg?rlkey=w3gu0t2a431yzs6hhglnsg4kk&st=6lqc3v9j&raw=1)
 ---
