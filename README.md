@@ -2,7 +2,6 @@
 ## Some Pattern whit python
 
 #### 1. half pyramid of stars (*)
-*Python*
 ```Python
 def half_pyramid_of_stars(r):
   print("Half pryamid of stars!")
