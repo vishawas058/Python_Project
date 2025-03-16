@@ -1,5 +1,5 @@
 # Python Project
-```===
+
 ## Some Pattern whit python
 
 1. half pyramid of stars (*)
