@@ -88,10 +88,10 @@ def pattern_12345_1234_123_12_1(r):
     for j in range(1,i):
       print(j, end = " ")
     print()
+```
 ###### Output 
 ![Output](https://www.dropbox.com/scl/fi/4r95apurgvt4l66gudb1i/7.jpg?rlkey=pmx7v4wjhz8xjn9oujm7g22ih&st=ank9tneb&raw=1)
     
-```
 #### 8. right half pyramid of numbers
 ```python
 
