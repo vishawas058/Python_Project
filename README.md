@@ -1,5 +1,6 @@
 #Python Project
-'''#half pyramid of stars (*)
+```python
+#half pyramid of stars (*)
 def half_pyramid_of_stars(r):
   print("Half pryamid of stars!")
   for i in range(r):
