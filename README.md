@@ -1,7 +1,8 @@
 # Python Project
 ## Some Pattern whit python
-```python
-#1. half pyramid of stars (*)
+
+### 1. half pyramid of stars (*)
+**python**
 def half_pyramid_of_stars(r):
   print("Half pryamid of stars!")
   for i in range(r):
@@ -9,8 +10,8 @@ def half_pyramid_of_stars(r):
       print("*", end = " ")
     print()
 
-```python
-#2. full pyramid of stars (*)
+### 2. full pyramid of stars (*)
+**python**
 def full_pyramid_of_stars(r):
   print("full pryamid of stars!")
   for i in range(r):
@@ -20,8 +21,9 @@ def full_pyramid_of_stars(r):
       print("*", end = " ")
     print()
 
-```python
+
 #3. inverted half pyramid of stars
+```python
 def inverted_half_pyramid_of_stars(r):
   print("Inverted half pyramid of stars!")
   for i in range(r):
@@ -29,8 +31,8 @@ def inverted_half_pyramid_of_stars(r):
       print("*", end = " ")
     print()
 
-```python
 #4. inverted full pyramid of stars
+```python
 def inverted_full_pyramid_of_stars(r):
   print("Inverted full pyramid of stars!")
   for i in range(r):
