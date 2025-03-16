@@ -151,3 +151,5 @@ try:
 except ValueError:
     print("Please enter a valid integer")
 ```
+###### Output 
+![Output](https://www.dropbox.com/scl/fi/ynxunl77rgeyelyyu0l0e/Decimal-To-Binary.jpg?rlkey=w3gu0t2a431yzs6hhglnsg4kk&st=6lqc3v9j&raw=1)
