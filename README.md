@@ -124,36 +124,26 @@ if __name__ == "__main__":
   right_half_pyramid_of_numbers(r)
 ```
 ---
-## Decimal To Binary
+# Decimal to Binary Converter 🚀
 
-```python
-# Get input from user
-try:
-    decimal = int(input("Enter a decimal number: "))
+## Overview 🌟
+This Python script is a simple yet robust tool designed to convert decimal (base-10) integers into their binary (base-2) representations. It supports positive integers, negative integers, and zero, with built-in error handling to ensure a smooth user experience! 😊
 
-    # Handle zero case
-    if decimal == 0:
-        print("Binary representation: 0")
-    else:
-        # Store original number for final output
-        original_num = decimal
-        binary = ""
-        num = abs(decimal)  # Handle negative numbers
+## Features ✨
+- ✅ Converts positive and negative decimal integers to binary
+- 🕸️ Special handling for zero input
+- 🚦 Preserves sign for negative numbers
+- ⚠️ Input validation with user-friendly error messages
+- 📜 Clean, readable output format
+- 🪶 Lightweight and easy to use
 
-        # Conversion loop
-        while num > 0:
-            binary = str(num % 2) + binary
-            num //= 2
+## Usage 🛠️
+1. Ensure you have Python 3.x installed on your system 🐍
+2. Save the script as `decimal_to_binary.py` 💾
+3. Run the script from the command line:
+```bash
+python decimal_to_binary.py
 
-        # Add negative sign if original number was negative
-        if original_num < 0:
-            binary = "-" + binary
-
-        print(f"Binary representation of {original_num} is: {binary}")
-
-except ValueError:
-    print("Please enter a valid integer")
-```
 ###### Output 
 ![Output](https://www.dropbox.com/scl/fi/ynxunl77rgeyelyyu0l0e/Decimal-To-Binary.jpg?rlkey=w3gu0t2a431yzs6hhglnsg4kk&st=6lqc3v9j&raw=1)
 ---
