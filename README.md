@@ -1,4 +1,4 @@
-# Python Project
+7# Python Project
 
 ## Some Pattern whit python
 
@@ -176,11 +176,11 @@ The script follows these steps:
 3. Special Case: Checks if the input is 0 and outputs "0" directly⚡️
 
 4. Conversion Process:
-  - Stores the original number for display📌
+   - Stores the original number for display📌
 
-  - Uses abs() to handle negative numbers during conversion🔢
+   - Uses abs() to handle negative numbers during conversion🔢
 
-  - Implements the standard division-by-2 algorithm:
+   - Implements the standard division-by-2 algorithm:
     - Repeatedly divides by 2➗️
 
     - Prepends remainders to build the binary string🧵
