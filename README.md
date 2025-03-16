@@ -1,4 +1,5 @@
 #Python Project
+<br>
 ##Some Pattern whit python
 ```python
 #half pyramid of stars (*)
