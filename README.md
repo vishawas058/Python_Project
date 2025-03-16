@@ -143,6 +143,7 @@ This Python script is a simple yet robust tool designed to convert decimal (base
 3. Run the script from the command line:
 ```bash
 python decimal_to_binary.py
+```
 4. Enter a decimal integer when prompted 
 
 5. View the binary result displayed on the screen 
