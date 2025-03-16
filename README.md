@@ -14,7 +14,7 @@ def half_pyramid_of_stars(r):
 ```
 ###### Output
 ![Output](https://www.dropbox.com/scl/fi/5m2n0hy01nnvqugscyt8a/1.jpg?rlkey=86imvglm9ir6wkopt76zi1874&st=msj9d1mw&raw=1)
-===
+---
 2. full pyramid of stars (*)
 ```python
 def full_pyramid_of_stars(r):
@@ -156,3 +156,4 @@ except ValueError:
 ```
 ###### Output 
 ![Output](https://www.dropbox.com/scl/fi/ynxunl77rgeyelyyu0l0e/Decimal-To-Binary.jpg?rlkey=w3gu0t2a431yzs6hhglnsg4kk&st=6lqc3v9j&raw=1)
+---
