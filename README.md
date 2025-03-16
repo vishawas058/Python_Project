@@ -10,6 +10,8 @@ def half_pyramid_of_stars(r):
       print("*", end = " ")
     print()
 ```
+###### Output
+![A Cool image](https://www.dropbox.com/scl/fi/5m2n0hy01nnvqugscyt8a/1.jpg?rlkey=86imvglm9ir6wkopt76zi1874&st=msj9d1mw&dl=0)
 #### 2. full pyramid of stars (*)
 ```python
 def full_pyramid_of_stars(r):
