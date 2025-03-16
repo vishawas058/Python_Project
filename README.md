@@ -1,7 +1,7 @@
 # Python Project
 ## Some Pattern whit python
 
-### 1. half pyramid of stars (*)
+#### 1. half pyramid of stars (*)
 ```Python
 def half_pyramid_of_stars(r):
   print("Half pryamid of stars!")
@@ -10,7 +10,7 @@ def half_pyramid_of_stars(r):
       print("*", end = " ")
     print()
 ```
-### 2. full pyramid of stars (*)
+#### 2. full pyramid of stars (*)
 ```python
 def full_pyramid_of_stars(r):
   print("full pryamid of stars!")
@@ -22,7 +22,7 @@ def full_pyramid_of_stars(r):
     print()
 ```
 
-### 3. inverted half pyramid of stars
+#### 3. inverted half pyramid of stars
 ```python
 def inverted_half_pyramid_of_stars(r):
   print("Inverted half pyramid of stars!")
@@ -32,7 +32,7 @@ def inverted_half_pyramid_of_stars(r):
     print()
 ```
 
-### 4. inverted full pyramid of stars
+#### 4. inverted full pyramid of stars
 ```python
 def inverted_full_pyramid_of_stars(r):
   print("Inverted full pyramid of stars!")
@@ -44,7 +44,7 @@ def inverted_full_pyramid_of_stars(r):
     print()
 ```
 
-### 5. print pattern of numbers
+#### 5. print pattern of numbers
 ```python
 def pattern_of_numbers(r):
   print("Print pattern of numbers!")
@@ -56,7 +56,7 @@ def pattern_of_numbers(r):
     print()
 ```
 
-### 6. pattern 1 12 123...
+#### 6. pattern 1 12 123...
 ```python
 def pattern_1_12_123(r):
   print("Print pattern 1 12 123 1234 12345...!")
@@ -66,7 +66,7 @@ def pattern_1_12_123(r):
     print()
 ```
 
-### 7. pattern ...12345 1234 123 12 1
+#### 7. pattern ...12345 1234 123 12 1
 ```python
 
 def pattern_12345_1234_123_12_1(r):
@@ -77,7 +77,7 @@ def pattern_12345_1234_123_12_1(r):
     print()
     
 ```
-### 8. right half pyramid of numbers
+#### 8. right half pyramid of numbers
 ```python
 
 def right_half_pyramid_of_numbers(r):
@@ -89,7 +89,7 @@ def right_half_pyramid_of_numbers(r):
       print()
 
 ```
-### calling functions
+#### calling functions
 ```python
 
 if __name__ == "__main__":
