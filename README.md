@@ -181,10 +181,10 @@ The script follows these steps:
    - Uses abs() to handle negative numbers during conversion🔢
 
    - Implements the standard division-by-2 algorithm:
-    - Repeatedly divides by 2➗️
+       - Repeatedly divides by 2➗️
 
-    - Prepends remainders to build the binary string🧵
-  -Adds a negative sign if the original input was negative 
+       - Prepends remainders to build the binary string🧵
+   -Adds a negative sign if the original input was negative 
 5. Output: Prints the result using an f-string for clean formatting🖨
 ## Requirements📦
 - Python 3.x (tested on Python 3.9+)🐍
