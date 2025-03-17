@@ -5,4 +5,5 @@ def half_pyramid_of_stars(r):
     for j in range(i+1):
       print("*", end = " ")
     print()
+r = int(input(Enter the number))
 half_pyramid_of_stars(r)
