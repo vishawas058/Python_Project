@@ -5,4 +5,5 @@ def pattern_1_12_123(r):
     for j in range(1,i + 1):
       print(j, end = " ")
     print()
+r = int(input(Enter the number))
 pattern_1_12_123(r)
