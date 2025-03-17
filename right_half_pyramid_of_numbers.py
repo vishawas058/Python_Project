@@ -6,4 +6,5 @@ def right_half_pyramid_of_numbers(r):
       for j in range(1, i + 1):
         print(j, end=" ")
       print()
+r = int(input(Enter the number))
 right_half_pyramid_of_numbers(r)
