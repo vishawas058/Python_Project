@@ -7,4 +7,5 @@ def full_pyramid_of_stars(r):
     for j in range(i + 1):
       print("*", end = " ")
     print()
+r = int(input(Enter the number))
 full_pyramid_of_stars(r)
